@@ -27,3 +27,6 @@ $(TARGET): $(OBJ)
 # Clean rule
 clean:
 	rm -f $(OBJ) $(TARGET)
+
+
+NOEW
